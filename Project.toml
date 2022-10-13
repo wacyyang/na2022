@@ -2,4 +2,6 @@
 julia = "=1.8.2"
 
 [deps]
-IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+IJulia
+Plots
+#IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
