@@ -1,0 +1,10 @@
+name: MyBinder
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+#  - pip
+#  - pip:
+#    - pyecharts
