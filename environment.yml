@@ -5,7 +5,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-#  - pip
-#  - pip:
-#    - pyecharts
   - rise
+
